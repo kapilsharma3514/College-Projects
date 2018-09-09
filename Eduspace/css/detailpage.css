@@ -1,0 +1,36 @@
+.detail_review_submit_button:hover{
+	cursor:pointer;
+	
+	}
+.review_display{
+	background-color:#F0F0F0;
+	border-radius:5px;
+	margin-top:10px;
+	margin left: 150px;
+	width:60%;
+	clear:both;
+	}
+.each_review_div{
+ background-color:#CC3;
+ padding: 5px 5px 5px 5px;
+ margin-bottom:10px;
+}
+
+.rem{
+	float:right; padding:5px 5px 5px 5px; cursor:pointer;}
+	
+.rem:hover{
+	background-color:#F0F4F2;}
+
+.addtofav_button:hover{ 
+	background-color:#CC3;
+	padding:0px 5px 5px 5px;
+	border-radius:5px;
+	cursor:pointer;
+	}
+.star{
+	cursor:pointer;}
+.str{
+	
+	
+	}

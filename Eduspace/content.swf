@@ -1,0 +1,55 @@
+&product=intro&
+&introbuilderversion=1.1&
+
+&bgvar=neutral_006.swf&
+&designvar=pinv014.swf&
+&musicvar=pop03.swf&
+
+&imageposx=-281.9&
+&imageposy=-89.15&
+&imagescale=100&
+&imagealpha=100&
+
+&textposx=236&
+&textposy=-42&
+&textscale=100&
+
+&repcloseposx=290.25&
+&repcloseposy=176.2&
+
+&link=http://localhost/Eduspace%20T1/Eduspace%20T1.1/index2.php&
+
+&playtype=autoredirect&
+
+&totalscreens=5&
+
+&namevar=Eduspace&
+&sloganvar=Get the best for your child.&
+&welcomevar=Welcome To Eduspace. Find The Best Institution For Your Child Here.&
+
+&keywords= keywords here (seperated by commas)&
+&sitedescription=Your site description here &
+&title=Eduspace&
+
+&display=full&
+
+&imagevar5=013arch.jpg&
+&imagevar4=003busi.jpg&
+&imagevar3=008busi.jpg&
+&imagevar2=007comm.jpg&
+&imagevar1=001arch.jpg&
+
+
+&textvar5=Ratings And Reviews For Your Clarity&
+&textvar4=Forum - To answer your queries&
+&textvar3=Proficiency Test to help you decide your stream&
+&textvar2=Search Using Name, Locality, PIN code or Maps.&
+&textvar1=Welcome To EDUspaceFind The Best Institution For Your Child Here.&
+
+
+&waitvar5=2&
+&waitvar4=2&
+&waitvar3=2&
+&waitvar2=2&
+&waitvar1=2&
+

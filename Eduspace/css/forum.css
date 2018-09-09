@@ -1,0 +1,212 @@
+.forum_header{
+	background-color:#09C;
+	color:white;
+		padding:5px 5px 5px 5px;
+	font-size:2em;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	margin-top:20px;
+	}
+.forum_content{
+	width:90%;
+	margin:0px auto 0px auto;
+ padding-top:45px;
+	}
+.forum_body{clear:both;
+	position:relative;
+z-index:1;
+	}
+
+.forum_topics_content{
+	border:2px solid #666;
+	font-size:1.5em;
+	background-color:#E1EAEA;
+	opacity:0.80;
+	
+	}
+	
+.f{
+	margin:10px auto 0px 0px;}
+	
+.topics_options{
+	text-decoration:none;
+	width:100%;
+	font-size:1em;
+	padding:5px 5px 5px 20px;
+font-family: 'Orbitron', sans-serif;
+	}
+	
+.topics_options:hover{
+	cursor:pointer;
+	background-color:#060;
+	color:white;
+	
+	}
+	
+.each_ques{
+	width:95%;
+	margin:5px auto 5px auto;}
+	
+.lp{
+	border-radius:3px;}
+	
+.lp1{
+	font-size:14px;
+	}
+
+.forum_ques{
+   color:white;
+	height:auto;
+	}
+	
+.each_ques{
+	background-color:#369;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:white;
+	font-weight:bold;
+	font-size:1.5em;
+	width:95%;
+	margin: 20px auto 0px auto;
+	height:auto;
+
+	-webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+	}
+
+.each_ques:hover{
+	background-color:#099;
+	font-size:1.8em;
+	padding:3px 3px 3px 3px;
+	cursor:pointer;
+	}	
+	
+.ri{margin-right:5px;
+	margin-top:auto;
+	margin-bottom:auto;
+	height:20px;
+	}
+
+.user_ques{
+	background-color:#A9C0E7;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	font-size:18px;
+	
+	width:95%;
+	margin: 0px auto 10px auto;
+	height:auto;
+	}
+	
+.forum_img{
+	float:left;
+	width:150px;
+	height:auto;
+	border-right:1px solid black;
+	}
+	
+.user_name{
+	font-size:14px;
+	text-align:center;
+	margin-top:3px;
+	}
+	
+.date{
+	font-size:14px;
+	text-align:center;
+	margin-top:3px;
+	}
+	
+.q{ float:left;
+	padding:5px 5px 5px 5px;
+
+}
+
+.Ans{
+	float:right;
+	padding:5px 5px 5px 5px;
+	background-color:#096;
+	color:white;
+	font-size:2em;
+	border-radius:5px;
+	margin-right:3%;
+	font-variant:small-caps;}
+	
+.Ans:hover{
+	cursor:pointer;}
+	
+.forum_submit_button{
+	text-align:center;
+	padding:5px 5px 5px 5px;
+	background-color:#096;
+	color:white;
+	cursor:pointer;
+	font-size:1.5em;
+	border-radius:5px;
+    margin-right:93%;
+	margin-top:10px;
+	}
+	
+.anw{
+	background-color:#DCDDAE;
+	width:85%;}
+	
+.bdy{ 
+	margin-top:250px;
+	}
+.submit_forum{background-color:#F03;
+opacity:0.75;
+color:white;
+margin-left:auto;
+margin-right:auto;
+width:60%;
+text-align:center;
+padding:15px 15px 15px 15px;
+border-radius:7px;
+	}
+	
+.submit_foru{background-color:#0F9;
+opacity:0.75;
+color:white;
+margin-left:auto;
+margin-right:auto;
+width:60%;
+text-align:center;
+padding:15px 15px 15px 15px;
+border-radius:7px;
+	}	
+	
+.s{
+	font-size:3em;}
+	
+.sub_edit:hover{
+	cursor:pointer;
+	color:#09F;
+
+	}
+	
+.edit_delete_but{
+	color:white; float:right; margin-right:7px;
+	}
+.edit_delete_but:hover{
+	color:#AAAC46;
+	cursor:pointer;
+	}	
+
+.edit_delete_menu{
+	background-color:white; font-size:0.85em; text-align:center; border-radius:10px; clear:both; color:grey; padding:10px 10px 10px 10px; z-index:5;
+	}
+	.submit_edit{
+		text-align:center;
+	padding:5px 5px 5px 5px;
+	background-color:#096;
+	color:white;
+	cursor:pointer;
+margin-right:4px;
+	border-radius:5px;
+   
+	margin-top:3px;
+		}
